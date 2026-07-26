@@ -84,7 +84,6 @@ Each stage builds upon the previous one to transform raw operational data into a
 airline-operational-performance-analytics/
 │
 ├── dataset/
-├── cleaned_data/
 ├── notebooks/
 │   ├── 01_data_understanding.ipynb
 │   ├── 02_data_cleaning.ipynb
