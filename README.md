@@ -12,7 +12,14 @@ Airline delays affect operational efficiency, customer satisfaction, and airline
 The project follows a complete data analytics workflow, including data understanding, data cleaning, exploratory data analysis (EDA), feature engineering, and business insights generation.
 
 ---
+## Key Outcomes
 
+- Analyzed ~397,000 airline operational records
+- Performed data cleaning and preprocessing using Pandas
+- Conducted exploratory data analysis to identify operational trends
+- Engineered business-focused metrics for airline performance evaluation
+- Built visualizations to communicate delay patterns and operational efficiency
+- Generated actionable recommendations to improve airline operations
 ##  Objectives
 
 - Understand airline operational performance trends.
