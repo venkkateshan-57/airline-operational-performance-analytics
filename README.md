@@ -93,7 +93,6 @@ airline-operational-performance-analytics/
 │   └── 05_business_insights.ipynb
 │
 ├── images/
-├── reports/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
