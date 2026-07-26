@@ -24,17 +24,30 @@ The project follows a complete data analytics workflow, including data understan
 
 ---
 
-##  Dataset
+## Dataset
 
-**Dataset Name:** Airline Delay Cause Dataset
+This project uses the **Airline Delay Cause** dataset from Kaggle.
 
-**Source:** Bureau of Transportation Statistics (BTS)
+### Download
 
-**Time Period:** 2003–2025 (Analysis performed using complete data up to 2024)
+https://www.kaggle.com/datasets/abdelazizel7or/airline-delay-cause
 
-**Records:** ~397,000
+### Dataset Information
 
-**Features:** 21 original features
+- **Dataset Name:** Airline Delay Cause Dataset
+- **Source:** Bureau of Transportation Statistics (BTS)
+- **Time Period:** 2003–2025 (Analysis performed using complete data up to 2024)
+- **Records:** ~397,000
+- **Features:** 21 original features
+
+### Setup
+
+Download the dataset from Kaggle and place the following file inside the `dataset/` folder before running the notebooks:
+
+```text
+dataset/
+└── Airline_Delay_Cause.csv
+```
 
 ---
 

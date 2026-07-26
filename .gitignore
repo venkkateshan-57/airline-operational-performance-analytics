@@ -23,3 +23,7 @@ Thumbs.db
 
 # Generated Data
 cleaned_data/
+
+# Dataset
+dataset/*
+!dataset/README.md
