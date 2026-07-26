@@ -192,7 +192,8 @@ Based on the analysis, the following recommendations can help improve airline op
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/venkkateshan-57/airline-operational-performance-analytics.git```
+git clone https://github.com/venkkateshan-57/airline-operational-performance-analytics.git
+```
 
 2. Install the required Python packages.
 
